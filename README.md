@@ -68,12 +68,6 @@ Para contribuir com este projeto, siga estas etapas:
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
-## Contato
-
-Para mais informações, entre em contato:
-- **Nome:** Tauan
-- **Email:** [seu-email@exemplo.com]
-
 ---
 
 Espero que este README forneça uma visão clara e abrangente do seu projeto Arquivador. Se precisar de ajustes ou tiver mais informações para adicionar, sinta-se à vontade para me informar!
